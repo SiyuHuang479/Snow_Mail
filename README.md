@@ -3,7 +3,11 @@
 ### Project Description
 Snowmail is a smart desktop application for cold email generation and job progress management, designed to streamline the job application process for professionals, particularly university students. The app leverages AI to generate personalized cold emails by integrating user profiles, resumes, and job descriptions, while also providing tools for document management and job application tracking.
 
-![](snowmail.mov)
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/O4ElnI0vzGc/hqdefault.jpg)](https://youtu.be/O4ElnI0vzGc)
+
+▶ Click the image to watch the demo on YouTube.
 
 ### Team Members:
 
